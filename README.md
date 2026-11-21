@@ -26,3 +26,5 @@ crm-support-api/
 │   └── crud.py        # Lógica de negocio y operaciones en base de datos
 ├── requirements.txt   # Dependencias del entorno
 └── README.md          # Documentación del proyecto
+## Vista Previa
+![Vista previa del proyecto](./swagger-docs.png)
